@@ -1,6 +1,6 @@
-## Usulan sub-topik untuk diajarkan pada Week00 dam Week01 OS
-1. Operating Systems Definition
-2. What Operating Systems do
+## Usulan sub-bab Week00 dam Week01 OS
+1. Pengenalan dan Penjelasan Tata Cara Berkuliah OS
+2. Operating Systems Definition and What Operating Systems do
 3. The best structuring method (monolithic, modular, etc.)
 4. Storage structure
 5. Cloud Services
