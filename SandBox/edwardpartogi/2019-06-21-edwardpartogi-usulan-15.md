@@ -2,17 +2,17 @@
 *mirip seperti susunan sub-bab yang sudah ada karena saya beranggapan susunan sub-bab sudah baik
 
 1. Pengenalan dan Penjelasan Tata Cara Berkuliah OS
-2. Operating Systems Definition and What Operating Systems do
-3. The best structuring method (monolithic, modular, etc.)
-4. Storage structure
-5. Cloud Services
-6. Implementation of VMMs
-7. User Operating System Interface
-8. Pros and Cons of using virtualized infrastructure
-9. C++ introduction
-10. Application Program Interface(s) introduction
-11. Device organization
-12. Common function of interrupt
-13. Multiprogramming and multitasking
-14. Kernel mode introduction
-15. Protection and Security
+2. Penjelasan dasar Sistem Operasi dalam dunia komputer
+3. Arsitektur sistem komputer
+4. Resources pada komputer
+5. Threat pada Sistem Operasi komputer
+6. *Previlege* sistem operasi
+7. Virtualizations
+8. *Computing environment*
+9. *System calls* dalam sistem operasi
+10. *Intellectual property rights*
+11. *Open-Source Software*, *Free Software* dan lisensi lainnya
+12. Desain sistem operasi
+13. Struktur OS
+14. *Basic bash commands and scripting*
+15. *Basic regex*
