@@ -1,4 +1,6 @@
 ## Usulan sub-bab Week00 dam Week01 OS
+*mirip seperti susunan sub-bab yang sudah ada karena saya beranggapan susunan sub-bab sudah baik
+
 1. Pengenalan dan Penjelasan Tata Cara Berkuliah OS
 2. Operating Systems Definition and What Operating Systems do
 3. The best structuring method (monolithic, modular, etc.)
