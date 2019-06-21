@@ -6,7 +6,7 @@ Jika diperlukan pertemuan tatap muka TIM, saya mengusulkan pertemuan berikutnya 
   * Senin, 24 Juni 2019, atau
   * Selasa, 25 Juni 2019, atau
   * Rabu, 26 Juni 2019,
-dengan anggapan bahwa jika pertemuan diadakan di luar hari tersebut (dengan jenjang 24 s/d 28 Juni 2019)
+/dengan anggapan bahwa jika pertemuan diadakan di luar hari tersebut (dengan jenjang 24 s/d 28 Juni 2019)
 saya memohon izin untuk tidak menghadiri pertemuan dikarenakan sedang berada di luar kota. Namun, saya memastikan
 bahwa saya masih bisa memantau perkembangan hasil pertemuan TIM.
 Untuk pertemuan di luar minggu tersebut, baru bisa saya pastikan (bisa atau tidaknya saya hadir) pada 28 Juni 2019.
