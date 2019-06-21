@@ -17,12 +17,19 @@ Untuk pertemuan di luar minggu tersebut, baru bisa saya pastikan (bisa atau tida
 Mengenai isi dari github-page (usulan sementara)
 ---
 1. Membahas tentang penjelasan cara kelas Operating System berjalan
+
   * Pengertian penggunaan Notes
+  
   * Pengertian penggunaan badak dan apa yang harus dilakukan di badak
+  
 2. Membahas materi Week 00 dan Week 01
+
   * Subbab saya tampilkan pada berkas 2019-06-21-edwardpartogi-usulan-15.md
+  
 3. Membahas sumber-sumber yang disediakan kelas OS untuk mahasiswa
+
   * Penjelasan apa itu link os.vlsm.org
+  
   * Penjelasan github yg menyediakan pdf-pdf materi
 ---
 ---
