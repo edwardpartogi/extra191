@@ -10,7 +10,9 @@ Jika diperlukan pertemuan tatap muka TIM, saya mengusulkan pertemuan berikutnya 
 dengan anggapan bahwa jika pertemuan diadakan di luar hari tersebut (dengan jenjang 24 s/d 28 Juni 2019)
 saya memohon izin untuk tidak menghadiri pertemuan dikarenakan sedang berada di luar kota. Namun, saya memastikan
 bahwa saya masih bisa memantau perkembangan hasil pertemuan TIM.
+
 Untuk pertemuan di luar minggu tersebut, baru bisa saya pastikan (bisa atau tidaknya saya hadir) pada 28 Juni 2019.
+
 ---
 Mengenai isi dari github-page (usulan sementara)
 ---
