@@ -4,5 +4,5 @@ Tambahan pada github hari ini
   * Menginstall Latex compiler : MiKTeX
   * Set up github pages
     Dengan link https://edwardpartogi.github.io/extra191/
-  *
+  * Selesai compile LaTeX.tex
 ---
