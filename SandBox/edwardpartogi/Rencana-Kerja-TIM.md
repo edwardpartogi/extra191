@@ -16,11 +16,13 @@ Untuk pertemuan di luar minggu tersebut, baru bisa saya pastikan (bisa atau tida
 ---
 Mengenai isi dari github-page (usulan sementara)
 ---
-* Membahas tentang penjelasan cara kelas Operating System berjalan
+* Membahas tentang penjelasan info-info dasar kelas Operating System berjalan
 
   * Pengertian penggunaan Notes
   
   * Pengertian penggunaan badak dan apa yang harus dilakukan di badak
+  
+  * Mengenai konsekuensi terlambat masuk kelas, terlambat mengumpulkan notes, dsb
   
 * Membahas materi Week 00 dan Week 01
 
