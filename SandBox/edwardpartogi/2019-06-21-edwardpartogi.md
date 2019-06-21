@@ -1,5 +1,6 @@
-Tambahan pada github hari ini
+Pekerjaan hari ini
 ---
+## Tambahan/modifikasi pada repository
   * Mengubah README.md
   * Menginstall Latex compiler : MiKTeX
   * Selesai compile LaTeX.tex
