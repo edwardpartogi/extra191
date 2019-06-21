@@ -14,4 +14,8 @@ Tambahan pada github hari ini
   * Menuliskan rencana kerja tim (usulan sementara)
   
     * Terdapat pada berkas Rencana-Kerja-TIM.md
+  
+  * Menuliskan usulan 15 subbab untuk week 00 dan week 01
+  
+    * Terdapat pada berkas 2019-06-21-edwardpartogi-usulan-15-md
 ---
